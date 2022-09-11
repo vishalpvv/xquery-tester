@@ -1,0 +1,2 @@
+THREE WAYS TO ADD LOCAL JARS TO MAVEN PROJECT
+- http://roufid.com/3-ways-to-add-local-jar-to-maven-project/
